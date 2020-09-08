@@ -7,13 +7,13 @@
  */
 
 // 定义 Github 项目，文章会从这里读取
-const github_base = "kasuganosoras/cloudflare-worker-blog";
+const github_base = "anest2/cfblog";
 
 // 站点名称
-const site_name = "CloudFlare Workers Blog";
+const site_name = "Undefined Fantastic Object";
 
 // 站点介绍
-const site_desc = "一个用 CloudFlare Worker 搭建的博客";
+const site_desc = "Powered By CloudFlare Worker Sites & Github ";
 
 // 资源文件
 const highlight_css = "https://cn.tql.ink:4443/css/highlight.js/github.css";
